@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-# 안녕하세요, QA Automation Engineer입니다.
+# QA Automation
 
 웹/앱 테스트 자동화와  
-사용자 트래킹 로그 검증 자동화를 중심으로 작업해왔습니다.
+사용자 트래킹 로그 검증 자동화를 정리하는 공간입니다.
 
 ## Main Focus
 - Playwright + Python 기반 웹 자동화
