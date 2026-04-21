@@ -11,15 +11,16 @@
 - 테스트 생산성 향상을 위한 보조 도구 개발
 
 ## Pinned Projects
-- [User Tracking Automation](https://github.com/<username>/<repo-user-tracking-automation>)
-- [AD Web Regression](https://github.com/<username>/<repo-ad-web-regression>)
-- [Mobile App Test Automation](https://github.com/<username>/<repo-mobile-app-automation>)
-- [Manual Validation Tool](https://github.com/<username>/<repo-manual-validation-tool>)
-- [AI Test Recorder](https://github.com/<username>/<repo-ai-test-recorder>)
+- [User Tracking Automation](https://github.com/mrt1847-test/user_tracking_automation_mweb)
+- [AD Web Regression](https://github.com/mrt1847-test/AD_dweb_regression)
+- [Mobile App Test Automation](https://github.com/mrt1847-test/practice_automation)
+- [Manual Validation Tool](https://github.com/mrt1847-test/manual_user_tracking)
+- [AI Test Recorder](https://github.com/mrt1847-test/ai_test_recorder)
+- [Web Regression](https://github.com/mrt1847-test/practice_automation_dweb)
 
 ## Tech Stack
 Python, Playwright, Appium, Pytest, pytest-bdd, JavaScript
 
 ## Contact
-- Email: your-email@example.com
-- GitHub: https://github.com/<username>
+- Email: cease2504@naver.com
+- GitHub: https://github.com/mrt1847-test
