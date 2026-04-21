@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # QA Automation
 
