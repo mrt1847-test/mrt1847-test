@@ -16,7 +16,7 @@
 - [Mobile App Test Automation](https://github.com/mrt1847-test/practice_automation)
 - [Manual Validation Tool](https://github.com/mrt1847-test/manual_user_tracking)
 - [AI Test Recorder](https://github.com/mrt1847-test/ai_test_recorder)
-- [TestArchitect](https://github.com/mrt1847-test/TestArchitect)
+- [TC-driven-Automation-Project](https://github.com/mrt1847-test/TC-driven-Automation-Project)
 
 ## Tech Stack
 Python, Playwright, Appium, Pytest, pytest-bdd, JavaScript
