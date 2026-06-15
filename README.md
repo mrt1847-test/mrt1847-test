@@ -12,6 +12,7 @@
 
 ## Pinned Projects
 - [User Tracking Automation](https://github.com/mrt1847-test/user_tracking_automation_mweb)
+사용자 행동 로그를 수집하고 JSON 스키마 기반으로 정합성을 검증하는 BDD 기반 자동화 프로젝트
 - [AD Web Regression](https://github.com/mrt1847-test/AD_dweb_regression)
 - [Mobile App Test Automation](https://github.com/mrt1847-test/practice_automation)
 - [Manual Validation Tool](https://github.com/mrt1847-test/manual_user_tracking)
