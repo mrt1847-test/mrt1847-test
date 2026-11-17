@@ -26,7 +26,7 @@
 - [AI Test Recorder](https://github.com/mrt1847-test/ai_test_recorder)  
   웹 상호작용을 기록하고 selector 추천 및 Playwright/Selenium 코드 생성을 지원하는 Chrome 확장 도구
 
-- [ai-qa-platform](https://github.com/mrt1847-test/ai-qa-platform))  
+- [ai-qa-platform](https://github.com/mrt1847-test/ai-qa-platform)  
   AI 를 이용한 web환경과 APP 환경의 노코드 자동화 툴
 
 ## Tech Stack
