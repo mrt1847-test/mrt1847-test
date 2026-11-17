@@ -26,8 +26,8 @@
 - [AI Test Recorder](https://github.com/mrt1847-test/ai_test_recorder)  
   웹 상호작용을 기록하고 selector 추천 및 Playwright/Selenium 코드 생성을 지원하는 Chrome 확장 도구
 
-- [TC-driven-Automation-Project](https://github.com/mrt1847-test/TC-driven-Automation-Project)  
-  테스트 케이스를 기반으로 webwright를 통해 자동화 스크립트와 프로젝트 구조 생성을 실험하는 TC 기반 자동화 PoC
+- [ai-qa-platform](https://github.com/mrt1847-test/ai-qa-platform))  
+  AI 를 이용한 web환경과 APP 환경의 노코드 자동화 툴
 
 ## Tech Stack
 Python, Playwright, Appium, Pytest, pytest-bdd, JavaScript
